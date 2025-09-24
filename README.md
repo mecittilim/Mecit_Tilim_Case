@@ -14,7 +14,7 @@ The project is intentionally kept simple and focused, aiming to demonstrate prop
 
 - **Python 3.10+** – Core programming language  
 - **Selenium WebDriver** – Browser automation framework  
-- **unittest / pytest-like structure** – For organizing and executing test cases  
+- **pytest framework** – For organizing and executing test cases  
 - **Page Object Model (POM)** – Design pattern for scalable test architecture
 
 ---
