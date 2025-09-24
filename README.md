@@ -114,3 +114,8 @@ pytest tests/
 - Traditional **setup/teardown lifecycle** instead of fixtures  
 - Easily extendable structure for future test scenarios  
 - Lightweight and beginner-friendly design focused on clarity and best practices
+
+  ## Report
+
+  - https://mecittilim.github.io/Mecit_Tilim_Case/report.html
+
