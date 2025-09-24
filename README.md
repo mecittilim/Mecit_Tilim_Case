@@ -30,7 +30,6 @@ Mecit_Tilim_Case/
 ├── locators/
 │   ├── base_locators.py    # Common locator definitions
 │   ├── careers_locator.py  # Locators for Careers page
-│   ├── home_locators.py    # Locators for Home page
 │   └── QA_locators.py      # Locators for QA page
 │
 ├── pages/
